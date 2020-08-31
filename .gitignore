@@ -1,3 +1,8 @@
+# Adjusted for 8DM50 - Group 16 (SHA Verschuren, 31-08-2020)
+# Own code folder + data
+code_personal/
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
